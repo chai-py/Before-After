@@ -1,5 +1,6 @@
 //before
-let numb = 555444333999;                                            // Declare variable
+let numb = 555444333999;    
+console.log('number:',numb);                                      // Declare variable
 let expNot = numb.toExponential();
 
 //after

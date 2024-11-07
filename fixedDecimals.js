@@ -1,5 +1,6 @@
 //before
 let numb = 99.887654321;                             // Declare variable
+console.log('number:',numb);
 
 //after
 console.log('answer 1 is', numb.toFixed(1));        //display result of fixedDecimal

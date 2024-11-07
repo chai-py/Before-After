@@ -1,5 +1,6 @@
 //before
-let value = 99                      //declare variale
+let value = 99.12                    //declare variale
+console.log(value)
 
 
 //after
